@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<questions>
+<question>
+    <heading>1.有关骨的构造的正确的说法是</heading>
+    <ans>
+        <a>A.骨干由松质构成</a><b>B.骨骺由密质构成</b><c>C.骨膜有血管无神经</c><d>D.骨髓有神经无血管</d><e>E.以上全不对</e><correctAns>E.以上全不对</correctAns>
+    </ans>
+    <system>运动系统</system>
+</question>
+
+<question>
+    <heading>2.有关红骨髓正确的是</heading>
+    <ans>
+        <a>A.成人存在于髓腔内</a><b>B.不存在于板障内</b><c>C.胎儿期造血，成年期不造血</c><d>D.髂骨、胸骨、椎骨内终生保存红骨髓</d><e>E.以上全不对</e><correctAns>D.髂骨、胸骨、椎骨内终生保存红骨髓</correctAns>
+    </ans>
+    <system>运动系统</system>
+</question>
+<question>
+    <heading>3.有关骨髓腔正确的是</heading>
+    <ans>
+        <a>A.位于骨骺内</a><b>B.位于长骨的骨干内</b><c>C.成人骨髓腔内含红骨髓</c><d>D.小儿骨髓腔内含黄骨髓</d><e>E.以上全不对</e><correctAns>B.位于长骨的骨干内</correctAns>
+    </ans>
+    <system>运动系统</system>
+        </question>
+<question>
+    <heading>4.黄骨體存在于</heading>
+    <ans>
+        <a>A.所有骨的内部</a><b>B.幼儿长骨骨干内部</b><c>C.成人长骨骨干内部</c><d>D.幼儿长骨骨骺内部</d><e>E.成人扁骨内部</e><correctAns>C.成人长骨骨干内部</correctAns>
+    </ans>
+    <system>运动系统</system>
+</question>
+<question>
+    <heading>5.颈椎正确的是</heading>
+    <ans>
+        <a>A.均有椎体及椎弓</a><b>B.1-2 颈椎无橫突孔</b><c>C.棘突末端都分叉</c><d>D.第6颈椎棘突末端膨大成颈动脉结</d><e>E.第7颈椎又名隆椎</e><correctAns>E.第7颈椎又名隆椎</correctAns>
+    </ans>
+    <system>运动系统</system>
+    <question>
+    <heading>6.指出下列骨不属于脑颅骨者</heading>
+    <ans>
+        <a>A.蝶骨</a><b>B.颧骨</b><c>C.额骨</c><d>D.筛骨</d><e>E.颞骨 </e><correctAns>B.颧骨</correctAns>
+    </ans>
+    <system>运动系统</system>
+        </question>
+    <question>
+    <heading>7.骶管麻醉的穿刺部位正对</heading>
+    <ans>
+        <a>A.骶角</a><b>B.骶管裂孔</b><c>C.骶前孔</c><d>D.骶后孔</d><e>E.骶岬</e><correctAns>B.骶管裂孔</correctAns>
+    </ans>
+    <system>运动系统</system>
+        </question>
+    <question>
+    <heading>8.颈内动脉穿过</heading>
+    <ans>
+        <a>A.颈动脉管外口</a><b>B.圆孔</b><c>C.棘孔</c><d>D.破裂孔</d><e>E.卵圆孔</e><correctAns>A.颈动脉管外口</correctAns>
+    </ans>
+    <system>运动系统</system>
+        </question>
+    <question>
+    <heading>9.有面神经通过的孔是</heading>
+    <ans>
+        <a>A.颈静脉孔</a><b>B.破裂孔</b><c>C.卵圆孔</c><d>D.茎乳孔</d><e>E.枕骨大孔</e><correctAns>D.茎乳孔</correctAns>
+    </ans>
+    <system>运动系统</system>
+        </question>
+    <question>
+    <heading>10.颅中窝的孔裂有</heading>
+    <ans>
+        <a>A.视神经孔</a><b>B.内耳门</b><c>C.筛孔</c><d>D.舌下神经管</d><e>E.颈静脉孔 </e><correctAns>A.视神经孔</correctAns>
+    </ans>
+    <system>运动系统</system>
+    </question>
+    <question>
+    <heading>1.呼吸道中惟一完整的软骨环是</heading>
+    <ans>
+        <a>A.甲状软骨</a><b>B.环状软骨</b><c>C.会厌软骨</c><d>D.杓状软骨</d><e>E.气管软骨</e><correctAns>B.环状软骨</correctAns>
+    </ans>
+    <system>呼吸系统</system>
+        </question>
+    <question>
+    <heading>2.呼吸道中最狭窄的部位是</heading>
+    <ans>
+        <a>A.鼻孔</a><b>B.鼻后孔</b><c>C.喉口</c><d>D.前庭裂</d><e>E.声门裂</e><correctAns>E.声门裂</correctAns>
+    </ans>
+    <system>呼吸系统</system>
+        </question>
+    <question>
+    <heading>3.喉炎时容易水肿的部位是</heading>
+    <ans>
+        <a>喉口黏膜</a><b>B.喉前庭黏膜</b><c>C.喉中间腔黏膜</c><d>D.喉室黏膜</d><e>E.声门下腔黏膜</e><correctAns>E.声门下腔黏膜</correctAns>
+    </ans>
+    <system>呼吸系统</system>
+        </question>
+    <question>
+    <heading>4.关于气管，错误的是</heading>
+    <ans>
+        <a>A.气管上接甲状软骨</a><b>B.气管位于食管前面</b><c>C.气管在胸骨角平面分为左、右主支气管</c><d>D.气管软骨呈“C" 形</d><e>E.气管隆嵴位于气管权内面</e><correctAns>A.气管上接甲状软骨</correctAns>
+    </ans>
+    <system>呼吸系统</system>
+        </question>
+    <question>
+    <heading>5.关于右主支气管，错误的是</heading>
+    <ans>
+        <a>A.较左主支气管垂直</a><b>B.较左主支气管短</b><c>C.较左主支气管粗</c><d>D.在肺门处分为二个肺叶支气管</d><e>E.气管异物多坠入右主支气管</e><correctAns>D.在肺门处分为二个肺叶支气管</correctAns>
+    </ans>
+    <system>呼吸系统</system>
+        </question>
+    <question>
+    <heading>1.血液循环</heading>
+    <ans>
+        <a>A.大循环始于右心室</a><b>B.小循环始于左心室</b><c>C.大循环内流动的是动脉血</c><d>D.小循环内流动的是动脉血</d><e>E.小循环主要功能是将静脉血转为动脉血</e><correctAns>E.小循环主要功能是将静脉血转为动脉血</correctAns>
+    </ans>
+    <system>脉管系统</system>
+        </question>
+    <heading>2.心</heading>
+    <ans>
+        <a>A.左右半心互相连通</a><b>B.左半心含静脉血</b><c>C.右半心含动脉血</c><d>D.体循环起于右半心</d><e>E.左半心称为动脉心</e><correctAns>E.左半心称为动脉心</correctAns>
+    </ans>
+    <system>脉管系统</system>
+        </question>
+<question>
+    <heading>3.属于终动脉的是</heading>
+    <ans>
+        <a>A.上颌动脉</a><b>B.脑膜中动脉</b><c>C.直肠上动脉</c><d>D.视网膜中央动脉</d><e>E.颈浅动脉</e><correctAns>D.视网膜中央动脉</correctAns>
+    </ans>
+    <system>脉管系统</system>
+        </question>
+<question>
+    <heading>4.动脉韧带</heading>
+    <ans>
+        <a>A.位于肺动脉干根部</a><b>B.连于左右肺动脉分叉部偏左处</b><c>C.连于左右肺动脉分叉部偏右处</c><d>D.是肺动脉干与主动脉之间的通道</d><e>E.胚胎时期已形成</e><correctAns>B.连于左右肺动脉分叉部偏左处</correctAns>
+    </ans>
+    <system>脉管系统</system>
+        </question>
+<question>
+    <heading>5.左颈总动脉</heading>
+    <ans>
+        <a>A.是头臂干的分支</a><b>B.是主动脉的一级分支</b><c>C.由主动脉弓凹侧发出</c><d>D.行于颈动脉鞘外</d><e>E.动脉起始处有颈动脉窦</e><correctAns>B.是主动脉的一级分支</correctAns>
+    </ans>
+    <system>脉管系统</system>
+        </question>
+<question>
+    <heading>1.有关肾的叙述，错误的是</heading>
+    <ans>
+        <a>A.是腹膜外位器官</a><b>B.左肾低于右肾半个椎体</b><c>C.成人肾门约平第一腰椎体</c><d>D.第12肋斜过左肾中部后方</d><e>E.肾静脉注入下腔静脉</e><correctAns>B.左肾低于右肾半个椎体</correctAns>
+    </ans>
+    <system>泌尿系统</system>
+        </question>
+<question>
+    <heading>2.呈扁漏斗状，出肾门后渐变细而移行为输尿管的是</heading>
+    <ans>
+        <a>A.肾窦</a><b>B.肾盂</b><c>C.肾小盏</c><d>D.肾大盏</d><e>E.肾乳头</e><correctAns>B.肾盂</correctAns>
+    </ans>
+    <system>泌尿系统</system>
+        </question>
+<question>
+    <heading>3.肾皮质伸入肾髓质内的部分是</heading>
+    <ans>
+        <a>A.肾门</a><b>B.肾窦</b><c>C.肾柱</c><d>D.肾锥体</d><e>E.肾乳头</e><correctAns>C.肾柱</correctAns>
+    </ans>
+    <system>泌尿系统</system>
+        </question>
+<question>
+    <heading>1.上消化道不包括</heading>
+    <ans>
+        <a>A.口腔</a><b>B.十二指肠</b><c>C.空肠</c><d>D.胃</d><e>E.食管</e><correctAns>C.空肠</correctAns>
+    </ans>
+    <system>消化系统</system>
+        </question>
+<question>
+    <heading>2.腭</heading>
+    <ans>
+        <a>A.前1/3为硬腭</a><b>B.软腭由横纹肌和黏膜构成</b><c>C.软腭又称腭帆</c><d>D.自腭帆向两侧的弓形皱襞，前方一对称腭咽弓</d><e>E.膊垂位于腭咽弓与腭舌弓之间</e><correctAns>B.软腭由横纹肌和黏膜构成</correctAns>
+    </ans>
+    <system>消化系统</system>
+        </question>
+<question>
+    <heading>1.眼球纤维膜</heading>
+    <ans>
+        <a>A.是眼球壁的最内层</a><b>B.富有血管和色素细胞</b><c>C.全层均透明</c><d>D.前1/6 部分为角膜</d><e>E.后5/6 为睫状体</e><correctAns>D.前1/6 部分为角膜</correctAns>
+    </ans>
+    <system>感受器</system>
+        </question>
+<question>
+    <heading>2.对角膜的描述，错误的是</heading>
+    <ans>
+        <a>A.富有血管</a><b>B.富有感觉神经末梢</b><c>C.无色透明</c><d>D.占纤维膜的前1/6</d><e>E.微向前凸</e><correctAns>A.富有血管</correctAns>
+    </ans>
+    <system>感受器</system>
+        </question>
+<question>
+    <heading>1.属于内分泌组织的是</heading>
+    <ans>
+        <a>A.松果体</a><b>B.睾丸</b><c>C.甲状腺</c><d>D.胰岛</d><e>E.脾</e><correctAns>D.胰岛</correctAns>
+    </ans>
+    <system>内分泌系统</system>
+        </question>
+<question>
+    <heading>2.属于内分泌器官的是</heading>
+    <ans>
+        <a>A.胸腺网状上皮细胞</a><b>B.脾</b><c>C.胰岛</c><d>D.松果体</d><e>E.睾丸问质细胞</e><correctAns>D.松果体</correctAns>
+    </ans>
+    <system>内分泌系统</system>
+        </question>
+<question>
+    <heading>1.精索内不含有</heading>
+    <ans>
+        <a>A.输精管</a><b>B.睾丸血管</b><c>C.射精管</c><d>D.神经</d><e>E.淋巴管</e><correctAns>C.射精管</correctAns>
+    </ans>
+    <system>生殖系统</system>
+        </question>
+<question>
+    <heading>2.精子的产生部位是</heading>
+    <ans>
+        <a>A.白膜</a><b>B.睾丸网</b><c>C.精曲小管</c><d>D.睾丸间质</d><e>E.附睾</e><correctAns>C.精曲小管</correctAns>
+    </ans>
+    <system>生殖系统</system>
+        </question>
+<question>
+    <heading>1.与脑桥相连的脑神经是</heading>
+    <ans>
+        <a>A.动眼神经</a><b>B.滑车神经</b><c>C.面神经</c><d>D.迷走神经</d><e>E.舌下神经</e><correctAns>C.面神经</correctAns>
+    </ans>
+    <system>神经系统</system>
+        </question>
+<question>
+    <heading>2.躯体运动性脑神经核不包括</heading>
+    <ans>
+        <a>A.展神经核</a><b>B.舌下神经核</b><c>C.滑车神经核</c><d>D.迷走神经核</d><e>E.动眼神经核</e><correctAns>D.迷走神经核</correctAns>
+    </ans>
+    <system>神经系统</system>
+</question>
+</questions>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<questions>
+    <question>
+        <title>椎骨</title>
+        <img_url>src/main/resources/img/2.1.jpg</img_url>
+        <Ans>
+            <ans1>后纵韧带</ans1>
+            <ans2>纤维环</ans2>
+            <ans3>髓核</ans3>
+            <ans4>前纵韧带</ans4>
+            <ans5>椎间盘</ans5>
+            <ans6>椎弓</ans6>
+            <ans7>棘突</ans7>
+            <ans8>棘间韧带</ans8>
+            <ans9>椎间孔</ans9>
+            <ans10>棘上韧带</ans10>
+        </Ans>
+    </question>
+    <question>
+        <title>心脏</title>
+        <img_url>src/main/resources/img/2.2.png</img_url>
+        <Ans>
+            <ans1>主动脉</ans1>
+            <ans2>左心房</ans2>
+            <ans3>二尖瓣</ans3>
+            <ans4>主动脉瓣</ans4>
+            <ans5>左心室</ans5>
+            <ans6>乳头肌</ans6>
+            <ans7>肺动脉干</ans7>
+            <ans8>上腔静脉</ans8>
+            <ans9>右心房</ans9>
+            <ans10>三尖瓣</ans10>
+            <ans11>下腔静脉</ans11>
+            <ans12>肺动脉瓣</ans12>
+        </Ans>
+    </question>
+</questions>
